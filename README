@@ -1,1 +1,9 @@
 How to install cura profiles
+
+preperation: download correct profile for nozzle size
+
+instalation:
+1. open cura
+2. click print profile dropdown
+3. click manage profiles
+4. click import and select the profile you want for the correct nozzle size
