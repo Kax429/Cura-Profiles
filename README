@@ -1,6 +1,13 @@
 How to install cura profiles
 
-preperation: download correct profile for nozzle size
+preperation: 
+1. download correct profile for nozzle size
+2. open cure
+3. click on printers
+4. click namage printers
+5. select the Ultimaker 2+
+6. change G-code flovor to Marlin
+7. close the two windows
 
 instalation:
 1. open cura
